@@ -16,6 +16,4 @@ A simple calculator built using:
 - Decimal support
 - AC and C buttons
 
-## Screenshot
 
-(Add screenshot here)
